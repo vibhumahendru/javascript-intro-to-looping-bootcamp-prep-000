@@ -13,8 +13,8 @@ for (var i = 0; i<25; i++){
 }
 
 function whileLoop (n){
- var x = n
+ var x = n;
   while (x>0){
-  console.log(--x)
+  console.log(--x);
 }
 }
