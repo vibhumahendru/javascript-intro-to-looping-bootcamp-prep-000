@@ -5,11 +5,11 @@ for (var i = 0; i<25; i++){
   array.push("I am 1 strange loop.");
     }
     else {
-      var b = i
-      array.push("I am ${b} strange loops.")
+     
+      array.push("I am ${b} strange loops.");
     }
   }
-  return array
+  return array;
 }
 
 
