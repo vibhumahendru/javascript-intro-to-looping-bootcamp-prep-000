@@ -12,5 +12,7 @@ for (var i = 0; i<25; i++){
   return array;
 }
 
-
+function whileLoop (a>0){
+  console.log
+}
 
